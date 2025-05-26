@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning about data science, generative ai and vibecoding<br>
+🔭 I’m currently working on my portfolio<br>🏫Currently studying BTech in CSE at Manipal University Jaipur<br>🌱 I’m currently learning about data science, generative ai and vibecoding<br>
 
 
 # 💻 Tech Stack:
